@@ -11,7 +11,6 @@ const InputOption = ({ type = "text", onAddHandler = () => {}, label }) => {
       <p>
         Input de <b>{type}</b>:
       </p>
-      <Input label="Example: " isRequired={false} />
       <Input label={label} isRequired={true} name="label" />
       {type === "select" && (
         <Input
