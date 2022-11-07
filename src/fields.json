@@ -1,0 +1,17 @@
+[
+  {
+    "type": "text",
+    "label": "Introduce el label que deseas en tu input de texto ",
+    "id": 1
+  },
+  {
+    "type": "radio",
+    "label": "Introduce el label que deseas en tu input de radio ",
+    "id": 2
+  },
+  {
+    "type": "select",
+    "label": "Introduce el label que deseas en tu input de select ",
+    "id": 3
+  }
+]
